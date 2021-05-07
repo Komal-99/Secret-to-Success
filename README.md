@@ -1,6 +1,6 @@
 # Opportunities in Tech
 
-## [Opportunities-in-tech]
+## Opportunities-in-tech
 https://komal-99.github.io/Opportunity-in-tech/
 add decription about the website here
 
