@@ -1,7 +1,5 @@
-# Opportunities in Tech
+# [Opportunities in Tech]( https://komal-99.github.io/Opportunity-in-tech/)
 
-## Opportunities-in-tech
-https://komal-99.github.io/Opportunity-in-tech/
 add decription about the website here
 
 ## Why did we created this webiste ?
