@@ -1,7 +1,7 @@
 # Opportunities in Tech
 
-## [Course Website](add link here)
-
+## [Opportunities-in-tech]
+https://komal-99.github.io/Opportunity-in-tech/
 add decription about the website here
 
 ## Why did we created this webiste ?
