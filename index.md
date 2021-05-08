@@ -3,7 +3,7 @@
 | [Scholarship](Scholarship/scholarship.html) | [Mentorship](Mentorship/mentorship.html) | [Hackathon](Hackathon/hackathon.html) | [Internship](Internship/internship.html) | [InformativeRepos](InformativeRepos/repos.html) | [Others](Other/other.html)|
 
 
-| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+
 
 add decription about the website here
 
