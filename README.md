@@ -1,4 +1,4 @@
-# [Google](https://komal-99.github.io/Google/)
+# [Secret To Success](https://komal-99.github.io/Secret-to-success/)
 <div align="center"> 
  
 [Scholarship](Scholarship/)  | [Mentorship](Mentorship/) | [Hackathon](Hackathon/) | [Internship](Internship/) | [InformativeRepos](InformativeRepos/) | [Others](Other.md) 
