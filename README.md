@@ -3,10 +3,9 @@
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 
 ## <div align="center">Let's do our best</div>
-
+> “Rejection is key to success” 
 <p align="center">
-<img src "https://user-images.githubusercontent.com/74819092/117549567-cabe1e80-b058-11eb-96d5-40059fffa046.png">
-
+<img src="https://user-images.githubusercontent.com/74819092/117549567-cabe1e80-b058-11eb-96d5-40059fffa046.png" width=400>
 </p>
 
 
@@ -34,6 +33,4 @@ git clone https://github.com/Komal-99/Opportunity-in-tech
 ```
 - Have a look at [Contibuting Guidelines]()
 ## Contributors
-
-
-
+ribtas007
