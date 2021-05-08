@@ -13,14 +13,12 @@ add decription about the website here
 * point 4 
 
 ## How can you contribute and help us
-- Give repositary a star if you like the content <img src="![image](https://user-images.githubusercontent.com/74819092/117547585-fe477b80-b04d-11eb-9e03-0747dea1b88a.png)
-" width=50>
+- Give repositary a star if you like the content<img src="https://user-images.githubusercontent.com/74819092/117547585-fe477b80-b04d-11eb-9e03-0747dea1b88a.png" width=50>
 - Take a look at the Existing [Issues](https://github.com/akshitagupta15june/Face-X/issues) 
 - Create your own Issues, If you have new opportunity not listed in project.
 - Wait for the Issue to be assigned to you.
 - Fork the repository
->click on the uppermost button <img src="![image](https://user-images.githubusercontent.com/74819092/117547550-c8a29280-b04d-11eb-9e6b-d0f84d49e34e.png)
-" width=50>
+>click on the uppermost button  <img src="https://user-images.githubusercontent.com/74819092/117547550-c8a29280-b04d-11eb-9e6b-d0f84d49e34e.png" width=50>
 
 - Clone the repository using-
 ```
