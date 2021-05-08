@@ -1,6 +1,7 @@
 # [Google](https://komal-99.github.io/Google/)
+<div align="center"> 
 [Scholarship](Scholarship/)  | [Mentorship](Mentorship/) | [Hackathon](Hackathon/) | [Internship](Internship/) | [InformativeRepos](InformativeRepos/) | [Others](Other.md) 
-| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+ </div>
 
 ## <div align="center">Let's do our best</div>
 > “Rejection is key to success” 
@@ -13,10 +14,8 @@
 
 ## Why did we created this webiste ?
 
-* point 1 
-* point 2 
-* point 3 
-* point 4 
+* Making it easy for each an every student to search for the opportunities and always keep an track on upcoming events so that they can work on upgrading skills and preparing for that.
+* One place for all your needs.
 
 ## How can you contribute and help us
 - Give repositary a star if you like the content
