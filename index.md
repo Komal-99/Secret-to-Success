@@ -4,7 +4,7 @@
 
 
 
-## <div align="center">Let's do our best</div>
+## Let's do our best
 > “Rejection is key to success” 
 
 
