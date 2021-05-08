@@ -1,5 +1,3 @@
-# [Opportunities in Tech]( https://komal-99.github.io/Opportunity-in-tech/)
-
 [Scholarship](Scholarship/)  | [Mentorship](Mentorship/) | [Hackathon](Hackathon/) | [Internship](Internship/) | [InformativeRepos](InformativeRepos/) | [Others](Other.md) 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 
@@ -24,15 +22,7 @@ add decription about the website here
 ```
 git clone https://github.com/Komal-99/Opportunity-in-tech
 ```
-
-
-## Content in the website
-
-
-    
-
-
- 
+- Have a look at [Contibuting Guidelines]()
 ## Contributors
 
 
