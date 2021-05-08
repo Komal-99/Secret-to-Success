@@ -29,7 +29,7 @@
 git clone https://github.com/Komal-99/Opportunity-in-tech
 ```
 - Have a look at [Contibuting Guidelines]()
-- 
+
 ## <div align="center">Contributors</div>
 
 ribtas007
