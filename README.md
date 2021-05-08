@@ -11,14 +11,11 @@
 </p>
 
 
-
-
-## Why did we created this webiste ?
-
+## <div align="center"> Why did we created this website?</div>
 * Making it easy for each an every student to search for the opportunities and always keep an track on upcoming events so that they can work on upgrading skills and preparing for that.
 * One place for all your needs.
 
-## How can you contribute and help us
+## <div align="center">How can you contribute to this project</div>
 - Give repositary a star if you like the content
  <img src="https://user-images.githubusercontent.com/74819092/117547585-fe477b80-b04d-11eb-9e03-0747dea1b88a.png" width=100>
 - Take a look at the Existing [Issues](https://github.com/akshitagupta15june/Face-X/issues) 
@@ -32,5 +29,7 @@
 git clone https://github.com/Komal-99/Opportunity-in-tech
 ```
 - Have a look at [Contibuting Guidelines]()
-## Contributors
+- 
+## <div align="center">Contributors</div>
+
 ribtas007
