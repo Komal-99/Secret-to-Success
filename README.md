@@ -1,5 +1,8 @@
 # [Opportunities in Tech]( https://komal-99.github.io/Opportunity-in-tech/)
 
+[Scholarship](Scholarship/)  | [Mentorship](Mentorship/) | [Hackathon](Hackathon/) | [Internship](Internship/) | [InformativeRepos](InformativeRepos/) | [Others](Other.md) 
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+
 add decription about the website here
 
 ## Why did we created this webiste ?
@@ -19,14 +22,8 @@ add decription about the website here
 
 ## Content in the website
 
-Index no. | Topic 
-------- | --- 
-1     | [Scholarship](Scholarship/) 
-2     | [Mentorship](Mentorship/) 
-3     | [Hackathon](Hackathon/) 
-4     | [Internship](Internship/) 
-5     | [InformativeRepos](InformativeRepos/) 
-6     | [Others](Other.md) 
+
+    
 
 
  
