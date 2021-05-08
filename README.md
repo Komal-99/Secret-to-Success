@@ -2,7 +2,14 @@
 [Scholarship](Scholarship/)  | [Mentorship](Mentorship/) | [Hackathon](Hackathon/) | [Internship](Internship/) | [InformativeRepos](InformativeRepos/) | [Others](Other.md) 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 
-add decription about the website here
+<div align="center">
+
+</div>
+# <div align="center">Let's Do Our Best</div>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74819092/117548879-ede6cf00-b054-11eb-8559-a6cd610445b4.png>
+</p>
+
 
 ## Why did we created this webiste ?
 
