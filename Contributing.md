@@ -1,3 +1,4 @@
+
 # Contributing Guidelines
 
 This documentation contains a set of guidelines to help you during the contribution process.
@@ -24,7 +25,9 @@ git clone https://github.com/<your-username>/<repo-name>
 cd <repo-name>  
 git remote add upstream https://github.com/<upstream-owner>/<repo-name>  
 ```  
-![script1]()  
+![Screenshot 2021-05-08 234901](https://user-images.githubusercontent.com/74819092/117561852-f45a6280-b0b7-11eb-9f05-5761ccfd5c78.png)
+
+
 
 
 - If you have already forked the project, update your clone repo before working.
@@ -81,23 +84,21 @@ git commit -m "message"
 git push -u origin Branch_Name
 ```
 - Here is how your branch will look.
-![br]() 
+![branch](https://user-images.githubusercontent.com/74819092/117562046-93cc2500-b0b9-11eb-955d-cde214bf27cb.png)
 
 ### Step 6 : Creating Pull Request
+- Create a new pull request
+<img src="https://user-images.githubusercontent.com/74819092/117562081-d55cd000-b0b9-11eb-8490-40025c2edfa7.png">
 
 - Go to your repository in browser and click on compare and pull requests.
 Then add a title and description to your pull request that explains your contribution.  
-<img src="">
+<img src="https://user-images.githubusercontent.com/74819092/117562121-3b495780-b0ba-11eb-89cc-6271746c265d.png">
 
 
 - Create a Pull Request which will be reviewed and suggestions would be added to improve it.
 - Add Screenshots to help us know what this enhancement/implementation is all about.
 
-
-<img src="">
-
-
-Your Pull Request has been submitted and will be reviewed by the maintainer and merged.
+## Your Pull Request has been submitted and will be reviewed by the maintainer and merged.
 
 
 
