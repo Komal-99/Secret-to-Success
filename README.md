@@ -15,10 +15,7 @@
 * Making it easy for each an every student to search for the opportunities and always keep an track on upcoming events so that they can work on upgrading skills and preparing for that.
 * One place for all your needs.
 <p align="center">
-<img src="https://user-images.githubusercontent.com/74819092/117550900-7880fb80-b060-11eb-82f6-6f7517ccb514.png"width=800 height=200>
-</p>
-<p align="center">
-<img src="https://user-images.githubusercontent.com/74819092/117550955-c39b0e80-b060-11eb-887c-f879c31e75b6.png"width=800 height=200>
+<img src="https://user-images.githubusercontent.com/74819092/117561645-2f5b9680-b0b6-11eb-9a1c-e5462905e3c4.png"width=800 height=200>
 </p>
 
 
