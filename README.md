@@ -22,7 +22,7 @@
 ## <div align="center">How can you contribute to this project</div>
 - Give repositary a star 🌟 if you like the content
  <img src="https://user-images.githubusercontent.com/74819092/117547585-fe477b80-b04d-11eb-9e03-0747dea1b88a.png" width=100>
-- Take a look at the Existing [Issues](https://github.com/akshitagupta15june/Face-X/issues) 
+- Take a look at the Existing [Issues](https://github.com/Komal-99/Secret-to-Success/issues) 
 - Create your own Issues, If you have new opportunity not listed in project.
 - Wait for the Issue to be assigned to you.
 - Fork the repository 
@@ -32,7 +32,7 @@
 ```
 git clone https://github.com/Komal-99/Opportunity-in-tech
 ```
-- Have a look at [Contibuting Guidelines]()
+- Have a look at [Contibuting Guidelines](https://github.com/Komal-99/Secret-to-Success/blob/main/Contributing.md)
 
 ## <div align="center">Contributors</div>
 
