@@ -20,6 +20,12 @@
 
 
 ## <div align="center">How can you contribute to this project</div>
+<p align="center">
+![Issues](https://img.shields.io/github/issues/Komal-99/Secret-to-Success)
+![Pull Requests](https://img.shields.io/github/issues-pr/Komal-99/Secret-to-Success)
+![Forks](https://img.shields.io/github/forks/Komal-99/Secret-to-Success)
+![Stars](https://img.shields.io/github/stars/Komal-99/Secret-to-Success)
+ </p>
 - Give repositary a star 🌟 if you like the content
  <img src="https://user-images.githubusercontent.com/74819092/117547585-fe477b80-b04d-11eb-9e03-0747dea1b88a.png" width=100>
 - Take a look at the Existing [Issues](https://github.com/Komal-99/Secret-to-Success/issues) 
