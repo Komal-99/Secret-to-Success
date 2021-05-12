@@ -1,3 +1,0 @@
-### Mentorship Programs
-
-* LearnITGirl
