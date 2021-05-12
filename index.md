@@ -1,6 +1,6 @@
 
 
-|    [Scholarship](Scholarship/scholarship.html)    |    [Mentorship](Mentorship/mentorship.html)    |    [Hackathon](Hackathon/hackathon.html)    |    [Internship](Internship/internship.html)    |    [InformativeRepos](InformativeRepos/repos.html)    |    [Others](Other/other.html)    |
+|    [Scholarship](Scholarship/scholarship.html)    |    [Mentorship & Fellowship](Mentorship&Fellowship/mentorship&fellowship.html)    |    [Hackathon](Hackathon/hackathon.html)    |    [Internship](Internship/internship.html)    |    [InformativeRepos](InformativeRepos/repos.html)    |    [Others](Other/other.html)    |
 
 
 
