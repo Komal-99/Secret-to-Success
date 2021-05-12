@@ -3,32 +3,31 @@
 <details>
 <summary>Learn IT, Girl!</summary>
 <br>
-Details - "Learn IT, Girl" is an international mentorship program that helps women learn a new programming language by doing an awesome project!<br>
-Each accepted mentee gets a mentor to help them through discovering their new language and coding their great project. During 3 months, the mentee will work on their code on GitHub to be able to show their amazing great in the end to the rest of the "Learn IT, Girl" community" <br><br>
-Website - <br>https://www.learnitgirl.com/<br>
+Details - It is an  international mentorship program that helps women to  learn a new programming language by doing an awesome opensource  project!<br>
 <br>
-Eligibility - <br>
-*
-*
-*
+-Website - <br>https://www.learnitgirl.com/<br>
+<br>
+-Eligibility - <br>
+* Anyone with experience and knowledge about any one or more programming language.<br>
+* Should be proficient in speaking english.<br>
+* Can take mentees doubts and resolve them <br>
+* If possible can provide mentees with project ideas and resources.<br>
 <br>
 <br>
-Application Date- <br>
-  
-  
+-Application - <br>
+* Registration starts in early February (almost every year)<br>
+* Event starts from March,11 till June,16.<br>
+* Their is mid evaluation also scheduled in between the course.  <br>
 <br>
-Program Duration - <br>
-
-March to June (as per 4th edition of this program)
-<br>
-
-Application Steps- <br>
-<br>
+-Program Duration - 3 months (as per 4th edition of this program)<br><br>
+-Application Steps- <br>
+* It take approx an hour to complete application so that we can get an knowledge abour your experience and technical skills.
+<br><br>
 Resources for Preparation  - 
 <br>
-
-
 * https://medium.com/learn-it-girl/learn-it-girl-my-experience-with-a-mentorship-program-for-women-f30b0c4721b5<br>
+* https://intranet.birmingham.ac.uk/as/employability/careers/mentoring/mentoring-schemes/top-tips-for-your-mentoring-application.aspx<br>
+* https://www.td.org/insights/7-tips-about-how-to-mentor-someone
 
 <br>
 </details>
