@@ -105,7 +105,7 @@ Eligibility - <br>
 
 Application - <br>
 * Registration starts in early or mid February (almost every year)<br>
-* Event starts from March till May and reasults declared in June<br>
+* Event starts from March till May and results declared in June<br>
 <br>
 
 Program Duration - 3 months <br><br>
@@ -119,6 +119,74 @@ Resources for Preparation  -
 * https://gssoc.girlscript.tech/FAQs.html<br>
 * https://medium.com/girlscript-summer-of-code/what-is-girlscript-summer-of-code-8fb0df21f52b<br>
 * https://zolaha.com/gssoc-2021-what-is-gssoc-benifits-eligibility-and-how-to-apply/
+
+<br>
+</details>
+
+<details>
+<summary>MLH Fellowship</summary>
+<br>
+Details - The MLH Fellowship is a remote internship alternative for aspiring technologists. You spend 12 weeks building your skills by collaborating on real-world projects here. <br>
+<br>
+  
+Website - <br>https://fellowship.mlh.io/<br>
+<br>
+
+Eligibility - <br>
+
+* Over the age of 18; or over the age of 13 with a parent's permission to participate in this program
+* Reside in a country not embargoed by the United States 
+* Able to commit 30 hours per week to this program
+* Know how to code in at least one language
+* Proficient English speaker
+* Have access to a video call quality Internet connection <br><br>
+
+Program Duration - Three 12-week batches of the MLH Fellowship per year <br><br>
+
+Application Steps- <br>
+* Application takes approximately 30-45 minutes to complete.
+* Submission of your application where you have to tell them about yourself, your experience, & why you want to be an MLH Fellow.
+* Give a 10-minutes video interview where the mentors ask you some general questions to judge your personality and discuss coding related stuffs.
+* Provide any required documentation, sign your participation agreement, & prepare for orientation on selection.
+<br><br>
+
+Resources for Preparation  - 
+<br>
+* https://fellowship.mlh.io/faq
+* https://dev.to/pawankolhe/applying-to-the-mlh-fellowship-tips-tricks-1jc1
+
+<br>
+</details>
+
+<details>
+<summary>The Uplift Project</summary>
+<br>
+Details - Uplift is a global project which aims at helping everyone looking for opportunities to leverage their knowledge, skills, and potential to higher levels.It offers training programs in technical skills, eg. AI, ML, Full Stack Dev and offers training programs in soft skills, eg. Public Speaking, Leadership. <br>
+<br>
+  
+Website - <br>https://uplift.girlscript.tech/<br>
+<br>
+
+Eligibility - <br>
+* Anyone with experience and knowledge about one or more technical or non-technical skills.<br>
+* Can take mentees doubts and resolve them.<br>
+* Anybody who is willing to learn new skills and willing to mentor the participants are eligible to participate.<br>
+<br>
+
+Application - <br>
+* Registration starts in May (almost every year)<br>
+* Event starts from June till August<br>
+<br>
+
+Program Duration - 3 months <br><br>
+
+Application Steps- <br>
+* It take approx half an hour to complete application so that they can get proper knowledge abour your experience and technical/non-technical skills.
+<br><br>
+
+Resources for Preparation  - 
+<br>
+* https://uplift.girlscript.tech/index.html#faq<br>
 
 <br>
 </details>
