@@ -19,7 +19,7 @@ Happy hacking!<br>
 <br>
 -Application - <br>
 * Registration starts in early April and May (almost every year)<br>
-* Event starts from May 14th until May 16th.<br>
+* Event starts from May 14 to May 16.<br>
  
 Resources for Preparation  - 
 <br>
