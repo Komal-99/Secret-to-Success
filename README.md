@@ -1,7 +1,7 @@
 # [Secret To Success](https://komal-99.github.io/Secret-to-Success/)
 <div align="center"> 
  
-[Scholarship](Scholarship/)  | [Mentorship](Mentorship/) | [Hackathon](Hackathon/) | [Internship](Internship/) | [InformativeRepos](InformativeRepos/) | [Others](Other.md) 
+[Scholarship](Scholarship/)  | [Mentorship&Fellowship](Mentorship&Fellowship/) | [Hackathon](Hackathon/) | [Internship](Internship/) | [InformativeRepos](InformativeRepos/) | [Others](Other.md) 
  </div>
 
 ## <div align="center">Let's do our best</div>
