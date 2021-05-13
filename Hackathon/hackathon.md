@@ -9,11 +9,11 @@ Happy hacking!<br>
 -Website - <br>https://organize.mlh.io/participants/events/6796-neighborhood-hacks<br>
 <br>
 -Eligibility - <br>
-  Minors (Under 18) <br>
-  Working Professionals <br>
-  Students - University <br>
-  Students - Secondary/High School <br> 
-  Students - Other <br>
+  * Minors(Under 18) <br>
+  * Working Professionals <br>
+  * Students-University <br>
+  * Students-Secondary/High School <br> 
+  * Students-Other <br>
 
 <br>
 <br>
@@ -36,11 +36,11 @@ Facebook developers club organises this Hackathon every year in the month of May
 -Website - <br>https://developers.facebook.com/blog/post/2018/02/21/f8-registration-open/<br>
 <br>
 -Eligibility - <br>
-  Minors (Under 18) <br>
-  Working Professionals <br>
-  Students - University <br>
-  Students - Secondary/High School <br> 
-  Students - Other <br>
+  * Minors(Under 18) <br>
+  * Working Professionals <br>
+  * Students-University <br>
+  * Students-Secondary/High School <br> 
+  * Students-Other <br>
 
 <br>
 <br>
